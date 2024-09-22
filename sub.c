@@ -16,6 +16,6 @@ int main(int argc, char *argv[]){
   else
   {
     int sum = atoi(argv[1]) - atoi(argv[2]);
-    printf(" The sum is %d\n ", sum);
+    printf("%d\n ", sum);
   }
 }
